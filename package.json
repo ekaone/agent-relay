@@ -1,6 +1,6 @@
 {
   "name": "@ekaone/agent-relay",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Framework-agnostic multi-agent task delegation — in-memory bus, typed tasks, LLM coordinator, dead-letter queue",
   "keywords": [
     "agent",

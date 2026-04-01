@@ -1,6 +1,6 @@
 # @ekaone/agent-relay
 
-## ⚠️Under active developement, use with caution
+## ⚠️ Use with caution
 
 Framework-agnostic multi-agent task delegation.
 
